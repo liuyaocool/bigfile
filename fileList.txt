@@ -1,3 +1,4 @@
+./linux/sublime_text_4134.zip
 ./win7/BaiduPinyin3.1.exe
 ./win7/chrome.exe
 ./win7/dnet4.exe
